@@ -1,0 +1,16 @@
+﻿# Recipe Book - рецепты
+Фарафонтова Арзу Шакировна
+Б9124-09.03.03пикд(3)
+
+## Функции:
+- просмотр списка рецептов
+- поиск
+- фильтрация по состоянию
+- просмотр деталей рецепта
+- изменение состояния рецепта
+
+## Скриншоты
+<img width="383" height="803" alt="image" src="https://github.com/user-attachments/assets/d16025b7-3bd4-4dca-ac2d-3ed2d87461b0" />
+<img width="368" height="801" alt="image" src="https://github.com/user-attachments/assets/76cccc4b-29fb-4d2a-9e61-a8b3316aa0e5" />
+<img width="368" height="805" alt="image" src="https://github.com/user-attachments/assets/b6937612-150c-4ff8-b5ae-508a6ca7edf4" />
+<img width="372" height="804" alt="image" src="https://github.com/user-attachments/assets/c774b866-296f-447d-a624-0395e7bc8d5c" />
